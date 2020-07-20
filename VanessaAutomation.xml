@@ -855,6 +855,10 @@
 							<v8:content>Создавать JSON для каждой ошибки</v8:content>
 						</v8:item>
 						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Create JSON for each error</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>am</v8:lang>
 							<v8:content>አዳዲስ ግምገማዎች ቅድሚያ የሚሰጡዋቸውን.</v8:content>
 						</v8:item>
@@ -4191,7 +4195,7 @@ Default: ffmpeg</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
-							<v8:content>Run TestClient with maximize window</v8:content>
+							<v8:content>Run TestClient with maximized window</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -4244,20 +4248,20 @@ Default: ffmpeg</v8:content>
 							<v8:content>Тичам TestClient в режим на отстраняване на грешки</v8:content>
 						</v8:item>
 						<v8:item>
+							<v8:lang>de</v8:lang>
+							<v8:content>Ausführen von Testclient im Debugmodus</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>es</v8:lang>
+							<v8:content>Ejecutar TestClient en modo de depuración</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>et</v8:lang>
 							<v8:content>Käivitada TestClient silumisrežiimis</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>fr</v8:lang>
 							<v8:content>Exécuter TestClient en mode de débogage</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ka</v8:lang>
-							<v8:content>აწარმოებს TestClient in გამართვის რეჟიმი</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>de</v8:lang>
-							<v8:content>Ausführen von Testclient im Debugmodus</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>hu</v8:lang>
@@ -4268,12 +4272,16 @@ Default: ffmpeg</v8:content>
 							<v8:content>Eseguire TestClient in modalità di debug</v8:content>
 						</v8:item>
 						<v8:item>
-							<v8:lang>lv</v8:lang>
-							<v8:content>Palaist TestClient atkļūdošanas režīmā</v8:content>
+							<v8:lang>ka</v8:lang>
+							<v8:content>აწარმოებს TestClient in გამართვის რეჟიმი</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>lt</v8:lang>
 							<v8:content>Paleisti TestClient debug režimu</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>lv</v8:lang>
+							<v8:content>Palaist TestClient atkļūdošanas režīmā</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>mn</v8:lang>
@@ -4290,10 +4298,6 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>sl</v8:lang>
 							<v8:content>Če želite zagnati TestClient v debug načinu</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>es</v8:lang>
-							<v8:content>Ejecutar TestClient en modo de depuración</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>sv</v8:lang>
@@ -5805,20 +5809,20 @@ Default: ffmpeg</v8:content>
 							<v8:content>Ключове за отстраняване на грешки</v8:content>
 						</v8:item>
 						<v8:item>
+							<v8:lang>de</v8:lang>
+							<v8:content>Schlüssel Debuggen</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>es</v8:lang>
+							<v8:content>Las claves de depuración</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>et</v8:lang>
 							<v8:content>Võtmed silumine</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>fr</v8:lang>
 							<v8:content>Les clés de débogage</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ka</v8:lang>
-							<v8:content>გასაღებები გამართვის</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>de</v8:lang>
-							<v8:content>Schlüssel Debuggen</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>hu</v8:lang>
@@ -5829,12 +5833,16 @@ Default: ffmpeg</v8:content>
 							<v8:content>Le chiavi di debug</v8:content>
 						</v8:item>
 						<v8:item>
-							<v8:lang>lv</v8:lang>
-							<v8:content>Atslēgas atkļūdošanas</v8:content>
+							<v8:lang>ka</v8:lang>
+							<v8:content>გასაღებები გამართვის</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>lt</v8:lang>
 							<v8:content>Raktai derinimo</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>lv</v8:lang>
+							<v8:content>Atslēgas atkļūdošanas</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>mn</v8:lang>
@@ -5851,10 +5859,6 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>sl</v8:lang>
 							<v8:content>Tipke za razhroščevanje</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>es</v8:lang>
-							<v8:content>Las claves de depuración</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>sv</v8:lang>
@@ -6683,6 +6687,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Приравнивать pending к failed</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Set Pending equal to Failed</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -7166,20 +7174,20 @@ Default: ffmpeg</v8:content>
 							<v8:content>Снима екрана на всеки прозорец 1C</v8:content>
 						</v8:item>
 						<v8:item>
+							<v8:lang>de</v8:lang>
+							<v8:content>Schießen Screenshot jedes Fenster 1S</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>es</v8:lang>
+							<v8:content>Retirar la captura de pantalla de cada una de las ventanas 1S</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>et</v8:lang>
 							<v8:content>Tulistada screenshot iga akna 1S</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>fr</v8:lang>
 							<v8:content>Retirer la capture d'écran de chaque fenêtre 1S</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ka</v8:lang>
-							<v8:content>მიიღოს სკრინშოტი თითოეული ფანჯარა 1C</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>de</v8:lang>
-							<v8:content>Schießen Screenshot jedes Fenster 1S</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>hu</v8:lang>
@@ -7190,12 +7198,16 @@ Default: ffmpeg</v8:content>
 							<v8:content>Scattare uno screenshot di ogni finestra 1S</v8:content>
 						</v8:item>
 						<v8:item>
-							<v8:lang>lv</v8:lang>
-							<v8:content>Uzņemt screenshot no katra loga 1C</v8:content>
+							<v8:lang>ka</v8:lang>
+							<v8:content>მიიღოს სკრინშოტი თითოეული ფანჯარა 1C</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>lt</v8:lang>
 							<v8:content>Šaudyti screenshot kiekvieno lango 1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>lv</v8:lang>
+							<v8:content>Uzņemt screenshot no katra loga 1C</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>mn</v8:lang>
@@ -7212,10 +7224,6 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>sl</v8:lang>
 							<v8:content>Posnetek zaslona vsako okno 1C</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>es</v8:lang>
-							<v8:content>Retirar la captura de pantalla de cada una de las ventanas 1S</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>sv</v8:lang>
@@ -7849,6 +7857,10 @@ Default: ffmpeg</v8:content>
 							<v8:content>Таймаут для асинхронных шагов</v8:content>
 						</v8:item>
 						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Timeout for asynchronous steps</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>am</v8:lang>
 							<v8:content>ወደ ይገናኛሉ ተጠቃሚ.</v8:content>
 						</v8:item>
@@ -7964,6 +7976,10 @@ Default: ffmpeg</v8:content>
 							<v8:content>Таймаут запуска клиента тестирования</v8:content>
 						</v8:item>
 						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TestClient timeout</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>am</v8:lang>
 							<v8:content>ቅድሚያ የታዘዘ TestClient</v8:content>
 						</v8:item>
@@ -8077,6 +8093,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Тег @tree включен по умолчанию</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Tag @tree is enabled by default</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -8828,7 +8848,7 @@ Default: ffmpeg</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
-							<v8:content>Use browser + web socket</v8:content>
+							<v8:content>Use browser + WebSocket</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -8864,6 +8884,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Эмулировать движения мышки VanessaExt</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Simulate VanessaExt mouse movement</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -8897,6 +8921,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Эмулировать ввод клавиатуры VanessaExt</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Simulate VanessaExt keyboard input</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9470,10 +9498,6 @@ Default: ffmpeg</v8:content>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Использовать редактор Vanessa Editor</v8:content>
 						</v8:item>
-						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Use Vanessa Editor</v8:content>
-						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9507,10 +9531,6 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Тема редактора</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Vanessa Editor theme</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9550,10 +9570,6 @@ Default: ffmpeg</v8:content>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Использовать данные текущей формы при подборе шагов</v8:content>
 						</v8:item>
-						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Use current form data when selecting steps</v8:content>
-						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9587,10 +9603,6 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Показывать строки подсценариев</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Show subscenario lines</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
